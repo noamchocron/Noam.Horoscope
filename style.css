@@ -1,0 +1,35 @@
+body{
+    background-image: url("img/backgrounds.jpg");
+    font-family: Verdana;
+    font-size: 25px;
+
+    position: relative;
+    margin: auto;
+    width: 70%;
+
+    color: darkorange;
+}
+
+#sign {
+    color: transparent;
+}
+
+#divToWrite {
+    color: black;
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+
+    Position: relative;
+    bottom: 150px;
+
+    text-align: left;
+    width: 105%;
+}
+
+#imgDiv {
+    position: relative;
+    left: 340px;
+    bottom: 170px;
+}
+
+
